@@ -1,2 +1,5 @@
+[build]
+cmd = "pnpm dev"
+
 [start]
 cmd = "pnpm dev"
