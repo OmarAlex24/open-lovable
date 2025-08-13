@@ -1,5 +1,5 @@
 [build]
-cmd = "pnpm dev"
+cmd = "true"
 
 [start]
 cmd = "pnpm dev"
